@@ -2,10 +2,14 @@
 
 Welcome to Spencer Hirata's Fire Emblem Character API
 
-Let's look over some endpoints (REST)
+### Endpoints (REST)
 
+```js
+app.get('/api/v1');
 ```
 
+```js
+app.get('/api/v1/character/:name');
 ```
 
 ### Future Updates
