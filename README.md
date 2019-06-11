@@ -2,6 +2,8 @@
 
 Welcome to Spencer Hirata's Fire Emblem Character API
 
+### [Live Site](https://fe-api.herokuapp.com/): https://fe-api.herokuapp.com/
+
 ### Endpoints (REST)
 
 ```js
