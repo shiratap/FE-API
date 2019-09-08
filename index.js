@@ -2,12 +2,13 @@
 
 const express = require('express');
 const app = express();
+var path = require('path');
 const PORT = process.env.PORT || 3000;
 
 const api = require('./src/routes.js');
 
 app.get('/', (req, res) => {
-  res.status(200).send('POL');
+  res.status(200).sendFile(path.join(__dirname + '/public/index.html'));
 });
 
 app.use(api);
