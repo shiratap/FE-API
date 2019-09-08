@@ -1,0 +1,16 @@
+{
+  "game": "Fire Emblem: Radiant Dawn",
+  "released": "November 11th, 2007",
+  "last-Updated": "9/7/2019",
+  "countries": ["Daein", "Begnion", "Crimea", ""],
+  "Daein": {
+    "story": ""
+  },
+  "Begnion": {
+    "story": ""
+  },
+  "Crimea": {
+    "story": ""
+  },
+  "missions": {}
+}
