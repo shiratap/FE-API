@@ -1,3 +1,22 @@
-.endpoint {
+a {
+  text-decoration: none;
+  color: black;
+}
+body {
+  margin: 0;
+}
+strong {
   color: red;
+}
+p {
+  font-size: 30px;
+  margin: 0;
+  padding: 10px 10px 10px 10px;
+  background-color: #dddd;
+}
+.endpoint {
+  font-size: 20px;
+  margin: 20px 10px 10px 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid black;
 }

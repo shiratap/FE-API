@@ -5,10 +5,12 @@ const app = express();
 var path = require('path');
 const PORT = process.env.PORT || 3000;
 
+app.use(express.static('public'));
+
 const api = require('./src/routes.js');
 
 app.get('/', (req, res) => {
-  res.status(200).sendFile(path.join(__dirname + '/public/index.html'));
+  res.redirect('/index.html');
 });
 
 app.use(api);
