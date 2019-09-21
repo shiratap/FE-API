@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Micaiah",
+    "startingStats": {
+      "hp": 15,
+      "att": 0,
+      "mag": 8,
+      "spd": 3,
+      "lck": 10,
+      "def": 2,
+      "res": 5
+    }
+  },
+  {
+    "name": "Edward",
+    "startingStats": {
+      "hp": 18,
+      "att": 7,
+      "mag": 0,
+      "spd": 8,
+      "lck": 3,
+      "def": 4,
+      "res": 1
+    }
+  },
+  {
+    "name": "Leonardo",
+    "startingStats": {
+      "hp": 16,
+      "att": 5,
+      "mag": 0,
+      "spd": 5,
+      "lck": 4,
+      "def": 5,
+      "res": 3
+    }
+  }
+]
