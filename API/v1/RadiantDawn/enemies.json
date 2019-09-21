@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Enemy",
+    "startingStats": {
+      "hp": 14,
+      "att": 4,
+      "mag": 0,
+      "spd": 3,
+      "lck": 4,
+      "def": 2,
+      "res": 1
+    }
+  },
+  {
+    "name": "Henchman",
+    "startingStats": {
+      "hp": 14,
+      "att": 8,
+      "mag": 0,
+      "spd": 3,
+      "lck": 4,
+      "def": 2,
+      "res": 1
+    }
+  },
+  {
+    "name": "Boss",
+    "startingStats": {
+      "hp": 14,
+      "att": 10,
+      "mag": 0,
+      "spd": 3,
+      "lck": 4,
+      "def": 2,
+      "res": 1
+    }
+  }
+]

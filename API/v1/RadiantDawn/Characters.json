@@ -1,42 +1,40 @@
 {
-  "all": {
-    "playable": [
-      {
-        "name": "Micaiah",
-        "description": "",
-        "classes": {
-          "starting-Tier": "Light Mage",
-          "2nd-Tier": "Light Sage",
-          "3rd-Tier": "Light Priestess"
-        },
-        "skills": ["Sacrifice", "Shove"],
-        "starting-stats": {
-          "level": 1,
-          "HP": 15,
-          "Str": 2,
-          "Mag": 7,
-          "Skl": 8,
-          "Spd": 7,
-          "Lck": 10,
-          "Def": 2,
-          "Res": 4,
-          "Con": 5,
-          "Wt": 5,
-          "Mov": 5
-        },
-        "max-stats": {
-          "level": 20,
-          "HP": 50,
-          "Str": 22,
-          "Mag": 40,
-          "Skl": 35,
-          "Spd": 33,
-          "Lck": 40,
-          "Def": 23,
-          "Res": 40
-        }
+  "playable": [
+    {
+      "name": "Micaiah",
+      "description": "",
+      "classes": {
+        "starting-Tier": "Light Mage",
+        "2nd-Tier": "Light Sage",
+        "3rd-Tier": "Light Priestess"
+      },
+      "skills": ["Sacrifice", "Shove"],
+      "starting-stats": {
+        "level": 1,
+        "HP": 15,
+        "Str": 2,
+        "Mag": 7,
+        "Skl": 8,
+        "Spd": 7,
+        "Lck": 10,
+        "Def": 2,
+        "Res": 4,
+        "Con": 5,
+        "Wt": 5,
+        "Mov": 5
+      },
+      "max-stats": {
+        "level": 20,
+        "HP": 50,
+        "Str": 22,
+        "Mag": 40,
+        "Skl": 35,
+        "Spd": 33,
+        "Lck": 40,
+        "Def": 23,
+        "Res": 40
       }
-    ],
-    "unplayable": []
-  }
+    }
+  ],
+  "unplayable": []
 }
