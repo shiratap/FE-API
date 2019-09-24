@@ -2,49 +2,49 @@
   {
     "name": "Enemy",
     "startingStats": {
-      "hp": 14,
-      "att": 4,
-      "mag": 0,
-      "spd": 3,
-      "lck": 4,
-      "def": 2,
-      "res": 1
+      "HP": 14,
+      "Att": 4,
+      "Mag": 0,
+      "Spd": 3,
+      "Lck": 4,
+      "Def": 2,
+      "Res": 1
     }
   },
   {
     "name": "Henchman",
     "startingStats": {
-      "hp": 14,
-      "att": 8,
-      "mag": 0,
-      "spd": 3,
-      "lck": 4,
-      "def": 2,
-      "res": 1
+      "HP": 14,
+      "Att": 8,
+      "Mag": 0,
+      "Spd": 3,
+      "Lck": 4,
+      "Def": 2,
+      "Res": 1
     }
   },
   {
     "name": "Magic Enemy",
     "startingStats": {
-      "hp": 14,
-      "att": 0,
-      "mag": 8,
-      "spd": 0,
-      "lck": 3,
-      "def": 1,
-      "res": 6
+      "HP": 14,
+      "Att": 0,
+      "Mag": 8,
+      "Spd": 0,
+      "Lck": 3,
+      "Def": 1,
+      "Res": 6
     }
   },
   {
     "name": "Boss",
     "startingStats": {
-      "hp": 14,
-      "att": 10,
-      "mag": 0,
-      "spd": 3,
-      "lck": 4,
-      "def": 2,
-      "res": 1
+      "HP": 14,
+      "Att": 10,
+      "Mag": 0,
+      "Spd": 3,
+      "Lck": 4,
+      "Def": 2,
+      "Res": 1
     }
   }
 ]
