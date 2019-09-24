@@ -2,40 +2,40 @@
   {
     "name": "Micaiah",
     "startingStats": {
-      "hp": 15,
-      "att": 0,
-      "mag": 8,
-      "spd": 3,
-      "lck": 10,
-      "def": 2,
-      "res": 5,
-      "exp": 0
+      "HP": 15,
+      "Att": 0,
+      "Mag": 8,
+      "Spd": 3,
+      "Lck": 10,
+      "Def": 2,
+      "Res": 5,
+      "Exp": 0
     }
   },
   {
     "name": "Edward",
     "startingStats": {
-      "hp": 18,
-      "att": 7,
-      "mag": 0,
-      "spd": 8,
-      "lck": 3,
-      "def": 4,
-      "res": 1,
-      "exp": 0
+      "HP": 18,
+      "Att": 7,
+      "Mag": 0,
+      "Spd": 8,
+      "Lck": 3,
+      "Def": 4,
+      "Res": 1,
+      "Exp": 0
     }
   },
   {
     "name": "Leonardo",
     "startingStats": {
-      "hp": 16,
-      "att": 5,
-      "mag": 0,
-      "spd": 5,
-      "lck": 4,
-      "def": 5,
-      "res": 3,
-      "exp": 0
+      "HP": 16,
+      "Att": 5,
+      "Mag": 0,
+      "Spd": 5,
+      "Lck": 4,
+      "Def": 5,
+      "Res": 3,
+      "Exp": 0
     }
   }
 ]
