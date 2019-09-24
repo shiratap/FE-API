@@ -24,6 +24,18 @@
     }
   },
   {
+    "name": "Magic Enemy",
+    "startingStats": {
+      "hp": 14,
+      "att": 0,
+      "mag": 8,
+      "spd": 0,
+      "lck": 3,
+      "def": 1,
+      "res": 6
+    }
+  },
+  {
     "name": "Boss",
     "startingStats": {
       "hp": 14,
