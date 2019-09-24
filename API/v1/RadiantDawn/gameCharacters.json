@@ -2,6 +2,7 @@
   {
     "name": "Micaiah",
     "startingStats": {
+      "Lvl": 1,
       "HP": 15,
       "Att": 0,
       "Mag": 8,
@@ -15,6 +16,7 @@
   {
     "name": "Edward",
     "startingStats": {
+      "Lvl": 1,
       "HP": 18,
       "Att": 7,
       "Mag": 0,
@@ -28,6 +30,7 @@
   {
     "name": "Leonardo",
     "startingStats": {
+      "Lvl": 1,
       "HP": 16,
       "Att": 5,
       "Mag": 0,

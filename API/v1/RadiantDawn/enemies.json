@@ -1,50 +1,67 @@
 [
   {
-    "name": "Enemy",
+    "name": "Swordsman",
     "startingStats": {
+      "Lvl": 1,
       "HP": 14,
       "Att": 4,
       "Mag": 0,
-      "Spd": 3,
-      "Lck": 4,
-      "Def": 2,
-      "Res": 1
+      "Spd": 6,
+      "Lck": 3,
+      "Def": 3,
+      "Res": 3
     }
   },
   {
-    "name": "Henchman",
+    "name": "Spearman",
     "startingStats": {
-      "HP": 14,
+      "Lvl": 1,
+      "HP": 16,
+      "Att": 5,
+      "Mag": 0,
+      "Spd": 5,
+      "Lck": 3,
+      "Def": 4,
+      "Res": 2
+    }
+  },
+  {
+    "name": "Axeman",
+    "startingStats": {
+      "Lvl": 1,
+      "HP": 18,
       "Att": 8,
       "Mag": 0,
-      "Spd": 3,
-      "Lck": 4,
-      "Def": 2,
-      "Res": 1
+      "Spd": 2,
+      "Lck": 1,
+      "Def": 6,
+      "Res": 0
     }
   },
   {
-    "name": "Magic Enemy",
+    "name": "Bowman",
     "startingStats": {
+      "Lvl": 1,
       "HP": 14,
+      "Att": 5,
+      "Mag": 0,
+      "Spd": 4,
+      "Lck": 2,
+      "Def": 3,
+      "Res": 3
+    }
+  },
+  {
+    "name": "Mage",
+    "startingStats": {
+      "Lvl": 1,
+      "HP": 12,
       "Att": 0,
-      "Mag": 8,
-      "Spd": 0,
+      "Mag": 7,
+      "Spd": 4,
       "Lck": 3,
       "Def": 1,
-      "Res": 6
-    }
-  },
-  {
-    "name": "Boss",
-    "startingStats": {
-      "HP": 14,
-      "Att": 10,
-      "Mag": 0,
-      "Spd": 3,
-      "Lck": 4,
-      "Def": 2,
-      "Res": 1
+      "Res": 5
     }
   }
 ]
