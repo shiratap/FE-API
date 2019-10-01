@@ -6,6 +6,8 @@ in making this massive project a reality**
 
 ### Live Site: https://fe-api.herokuapp.com/
 
+### Game Application: https://fe-radiantdawngame.herokuapp.com/
+
 ### Endpoints (REST)
 
 #### Generic
