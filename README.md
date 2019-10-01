@@ -8,6 +8,8 @@ in making this massive project a reality**
 
 ### Endpoints (REST)
 
+#### Generic
+
 ```js
 app.get('/api/v1/all');
 ```
@@ -17,11 +19,17 @@ app.get('/api/v1/Characters');
 ```
 
 ```js
-app.get('/api/v1/Daein');
+app.get('/api/v1/Begnion');
+```
+
+#### Radiant Dawn Game Specific
+
+```js
+app.get('/api/v1/StarterCharacters');
 ```
 
 ```js
-app.get('/api/v1/Begnion');
+app.get('/api/v1/enemies');
 ```
 
 ### Future Updates
